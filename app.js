@@ -1,1 +1,1 @@
-console.log{"Hello1l1"}
+console.log{"Hello1"}
